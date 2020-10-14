@@ -1,0 +1,12 @@
+{
+  "name": "ng-rut-chile",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "10.1.5",
+    "@angular/core": "10.1.5"
+  },
+  "dependencies": {
+    "rut-helpers": "0.1.1",
+    "tslib": "2.0.3"
+  }
+}
